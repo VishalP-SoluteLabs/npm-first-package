@@ -1,0 +1,22 @@
+{
+  "name": "find-missing-number-sorted-array",
+  "version": "1.0.0",
+  "description": "You can find missing numbers in a sorted array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VishalP-SoluteLabs/npm-first-package.git"
+  },
+  "keywords": [
+    "VP-Missing-Num"
+  ],
+  "author": "Vishal Pansuriya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VishalP-SoluteLabs/npm-first-package/issues"
+  },
+  "homepage": "https://github.com/VishalP-SoluteLabs/npm-first-package#readme"
+}
